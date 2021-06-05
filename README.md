@@ -3,7 +3,7 @@
 # Project 2: Isolating Functions and creating .gitignore files
 
 ### Overview
-In this project I pracvticed refactoring code in order to seperate functions and eliminate global variables. I also gained more experience using git commands and creating .gitignore files
+In this project I practiced refactoring code in order to seperate functions and eliminate global variables. I also gained more experience using git commands and creating .gitignore files
 
 ### Project Code
 ```markdown
